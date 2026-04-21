@@ -78,7 +78,7 @@ Go to Settings.json and edit
   },
   "server": {
     "ip": "ENTER SERVER IP",
-    "port": ENTER SERVER PORT (SET TO 25565 IF YOU DONT HAVE THE PORT),
+    "port": ENTER SERVER PORT SET TO 25565 IF YOU DONT HAVE THE PORT,
     "version": "1.21.11"
   },
 ```
