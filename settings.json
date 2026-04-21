@@ -1,0 +1,41 @@
+{
+  "bot-account": {
+    "username": "BOTNAME (CONFIGURE IN SETTINGS.JSON)",
+    "password": "",
+    "type": "offline"
+  },
+  "server": {
+    "ip": "ENTER SERVER IP",
+    "port": ENTER SERVER PORT (SET TO 25565 IF YOU DONT HAVE THE PORT),
+    "version": "1.21.11"
+  },
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "password@123"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+      "messages": [
+        "this server is the best",
+        "My owner is LLuniXX",
+        "lets play"
+      ]
+    },
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
