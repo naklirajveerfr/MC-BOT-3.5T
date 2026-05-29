@@ -1,47 +1,47 @@
-# 🤖 Minecraft AI Bot (Mineflayer-Based)
+# Minecraft AI Bot (Mineflayer-Based)
 
 A fully automated Minecraft bot built using Mineflayer that can survive, fight, follow players, sleep, eat, and react intelligently to the environment.
 
 ---
 
-## ⚙️ Features
+##  Features
 
-### 🧭 Movement & Navigation
+###  Movement & Navigation
 - Follow players in real time
 - Pathfinding using mineflayer-pathfinder
 - Auto-sprint while moving
 - Escape from danger when low HP
 
-### ⚔️ Combat System
+###  Combat System
 - Kill mode to attack hostile mobs
 - Automatically equips sword and shield
 - Targets hostile mobs (zombies, skeletons, creepers, etc.)
 
-### 🛡️ Survival AI
+### Survival AI
 - Auto-flee when health is low
 - Shields against nearby threats
 - Continuous health monitoring
 
-### 🍗 Hunger System
+### Hunger System
 - Automatically eats food when hungry
 - Warns when food is low
 
-### 💤 Sleep System
+### Sleep System
 - Detects night time
 - Places and uses beds automatically
 - Sleeps and wakes up safely
 
-### 🎒 Inventory Management
+### Inventory Management
 - Auto-equips armor
 - Equips best sword and shield
 - Re-equips gear after pickup
 
-### 🧠 Smart Awareness
+### Smart Awareness
 - Tracks health, hunger, time
 - Detects nearby mobs
 - Reacts every tick in real time
 
-### 💬 Chat Commands
+### Chat Commands
 - `come` → Follow player
 - `follow_mode ON/OFF` → Toggle follow mode
 - `kill_mode ON/OFF` → Toggle combat mode
@@ -50,14 +50,14 @@ A fully automated Minecraft bot built using Mineflayer that can survive, fight, 
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Node.js 16+
 - Minecraft server (tested on 1.21.1)
 
 ---
 
-## 🚀 Setup
+##  Setup
 
 ### 1. Clone the repository
 ```bash
